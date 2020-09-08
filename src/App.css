@@ -1,0 +1,23 @@
+
+.App ul.navbar {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.App .navbar li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.App .navbar li a {
+    text-decoration:none;
+    color:#333;
+    font-size: 2rem;
+    font-weight: bold;
+
+}
